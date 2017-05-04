@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+body{
+    font: normal 8pt verdana, helvetica, sans-serif;
+}
+
+div{
+    padding: 10px;
+    border: 1px #0568CD solid;
+    margin: 20px;
+}
+
+
+
+form {
+    
+    width: 200px;
+    margin: 3px 0px 0px 0px;
+}
+
+
+ 
